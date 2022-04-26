@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Hello, Git
 HOla TRON
-=======
 Hello, Antonio
->>>>>>> 83cd3777a0ff3f17b31ebefae7d9b7b2ae595490
+Vamonos que es la hora.
